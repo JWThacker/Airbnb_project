@@ -1,0 +1,10 @@
+*.png
+*.csv
+*.txt
+*.json
+zip_codes_boundaries/Boston/ZIP_Codes/ZIP_Codes.*
+zip_codes_boundaries/Boston/*.json
+zip_codes_boundaries/Seattle/*.json
+zip_codes_boundaries/Seattle/ZIP_Codes/ZIP_Codes.*
+boston_data/*.csv
+seattle_data/*.csv
