@@ -1,5 +1,21 @@
 # Understanding Airbnb Rental Prices, Property Reviews and Vacancy Rates
 
+## Libraries Used
+   * Pandas
+   * NLTK
+   * Matplotlib/Seaborn
+   * GeoPandas
+   * Statsmodels
+   * Missingno
+   * WordCloud
+
+## Skills Used
+   * Data Cleaning and the whole ETL process
+   * Statistical Modeling
+   * Data Visualization
+   * Geospatial Data Manipulation
+   * Module Development
+
 ## Project Motivation
 The questions considered in this project are motivated by two primary scenarios:
 
@@ -93,8 +109,8 @@ these scenarios and 1 question is really only relevant from _scenario 2_.
 ## How to Interact With This Repository
 
 ```bash
-git clone 'https://github.com/JWThacker/Airbnb_project.git'
-cd Data_Science_ND
+git clone 'https'
+cd project_1_airbnb
 ```
 
 ## Installations
