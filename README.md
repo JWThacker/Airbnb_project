@@ -1,5 +1,8 @@
 # Understanding Airbnb Rental Prices, Property Reviews and Vacancy Rates
 
+## Link to Medium Article
+[Link is here](https://medium.com/p/ae811810f791)
+
 ## Libraries Used
    * Pandas
    * NLTK
