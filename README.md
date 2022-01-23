@@ -10,7 +10,8 @@
    * WordCloud
 
 ## Skills Used
-   * Data Cleaning and the whole ETL process
+   * ETL
+   * Data Cleaning(part of ETL)
    * Statistical Modeling
    * Data Visualization
    * Geospatial Data Manipulation
